@@ -20,9 +20,5 @@ Una semplice applicazione JavaScript che funziona come un counter. Gli utenti po
 - CSS
 - JavaScript
 
-## Come Iniziare
 
-1. Clona il repository:
 
-   ```bash
-   git clone https://github.com/tuonome/counter-app.git
