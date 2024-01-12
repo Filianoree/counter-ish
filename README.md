@@ -3,6 +3,7 @@
 
 # Counter App
 
+
 Una semplice applicazione JavaScript che funziona come un counter. Gli utenti possono aumentare e decrementare il valore del counter utilizzando i pulsanti + e -.
 
 ## Demo
@@ -19,3 +20,10 @@ Inserisci qui un link alla demo online o descrivi come eseguire il tuo progetto 
 - HTML
 - CSS
 - JavaScript
+
+## Come Iniziare
+
+1. Clona il repository:
+
+   ```bash
+   git clone https://github.com/Filianoree/Progetto Javascript Basics di Oday Deb
