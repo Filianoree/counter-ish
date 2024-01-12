@@ -7,7 +7,7 @@
 Una semplice applicazione JavaScript che funziona come un counter. Gli utenti possono aumentare e decrementare il valore del counter utilizzando i pulsanti + e -.
 
 ## Demo
-[Ecco a voi un test demo quel sito counter!](https://filianoree.github.io/)
+[Ecco a voi un test demo del sito counter!](https://filianoree.github.io/)
 ## Caratteristiche
 
 - Incrementa e decrementa il counter con pulsanti intuitivi.
